@@ -1,0 +1,23 @@
+﻿{
+    "ca_id":  "ca01",
+    "bm_id":  "bm02",
+    "operator":  "Andrea",
+    "product":  "CogniClear",
+    "domain":  "calculatesupply.com",
+    "subdomain":  "rah",
+    "full_url":  "https://rah.calculatesupply.com",
+    "github_repo":  "DougsCorp/ca01-bm02-Andrea",
+    "pages":  [
+                  {
+                      "path":  "/vsl1/",
+                      "template":  "CBS-vsl-CogniClear",
+                      "type":  "vsl"
+                  }
+              ],
+    "status":  "draft",
+    "aliases":  [
+                    "ca1-bm2-andrea"
+                ],
+    "cloned_from":  "Andrea-bm02-ca03",
+    "ga_measurement_id":  "G-PTY57M66PW"
+}
