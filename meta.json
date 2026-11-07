@@ -1,4 +1,4 @@
-﻿{
+{
     "ca_id":  "ca01",
     "bm_id":  "bm02",
     "operator":  "Andrea",
@@ -10,6 +10,11 @@
     "pages":  [
                   {
                       "path":  "/vsl1/",
+                      "template":  "Quiz-ps-CogniClear",
+                      "type":  "ps"
+                  },
+                  {
+                      "path":  "/vsl1/pv-cognC/",
                       "template":  "CBS-vsl-CogniClear",
                       "type":  "vsl"
                   }
